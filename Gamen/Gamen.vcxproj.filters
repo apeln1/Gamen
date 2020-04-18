@@ -27,9 +27,15 @@
     <ClInclude Include="src\Gamen\EntryPoint.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\Gamen\Log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Gamen\Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Gamen\Log.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
